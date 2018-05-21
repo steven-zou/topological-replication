@@ -1,6 +1,8 @@
 # Octopus
 <img alt="Harbor" src="images/logo.png" width="118" height="123">
 
+**NOTES: This project is already moved to [https://github.com/harbor-incubator/octopus](https://github.com/harbor-incubator/octopus) for continuously incubated**
+
 Project **octopus** is incubated from and built on the popular open source project **[Harbor](https://github.com/vmware/harbor)**, which is an enterprise-class registry server that stores and distributes container images. 
 
 Project **octopus** is designed to replicate container images between multiple image registry instances which are located in different sites/datacenters with visual topological structured policy.
